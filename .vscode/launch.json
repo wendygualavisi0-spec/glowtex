@@ -1,0 +1,23 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "chrome",
+      "request": "launch",
+      "name": "Ejecutar Tienda GLOWTEX en Chrome",
+      "file": "${workspaceFolder}/index.html"
+    },
+    {
+      "type": "msedge",
+      "request": "launch",
+      "name": "Ejecutar Tienda GLOWTEX en Edge",
+      "file": "${workspaceFolder}/index.html"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Ejecutar Servidor Node.js (Opcional)",
+      "program": "${workspaceFolder}/server.js"
+    }
+  ]
+}
