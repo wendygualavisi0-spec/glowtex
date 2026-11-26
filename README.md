@@ -185,4 +185,5 @@ y abrir `http://localhost:5000`.
    - Lista de favoritos (Wishlist) interactiva con guardado en tiempo real.
    - Modal de cuenta de usuario para compradores minoristas y empresas mayoristas con RUC.
 #   g l o w t e x  
+ #   g l o w t e x  
  
